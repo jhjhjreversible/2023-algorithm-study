@@ -69,7 +69,7 @@
 
 |**주차**|**알고리즘**|**링크**|**part2 문제**|**part3 문제**|**진행 현황**|   
 |--|--|--|--|--|--|
-|1주차|greedy(그리디) | [그리디](https://www.youtube.com/watch?v=2zjoKjt97vQ&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=2) |Q1.큰 수의 법칙  Q2.숫자 카드 게임  Q3.1이 될 때까지 | Q1.모험가길드  Q2.곱합기 혹은 더하기  Q3.문자열 뒤집기  Q4.만들 수 없는 금액  Q5.볼링공 고르기   Q6.무지의 먹방 라이브|  |
+|1주차|greedy(그리디) | [그리디](https://www.youtube.com/watch?v=2zjoKjt97vQ&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=2) |Q1.큰 수의 법칙 <br> Q2.숫자 카드 게임  <br>Q3.1이 될 때까지 | Q1.모험가길드 <br> Q2.곱합기 혹은 더하기 <br> Q3.문자열 뒤집기 <br> Q4.만들 수 없는 금액 <br> Q5.볼링공 고르기 <br>  Q6.무지의 먹방 라이브|  |
 |2주차|implementation(구현) |[구현](https://www.youtube.com/watch?v=2zjoKjt97vQ&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=2) | Q1.왕실의 나이트  Q2.게임 개발 |  Q1.럭키 스트레이트  Q2.문자열 재정렬  Q3.문자열 압축  Q4.자물쇠와 열쇠  Q5.뱀  Q6.기둥과 보 설치  Q7.치킨 배달  Q8.외벽 점검 |  |
 |3주차|dfs/bfs| [DFS/BFS](https://www.youtube.com/watch?v=7C9RgOcvkvo&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=3) |  Q1.음료수 얼려먹기  Q2.미로 탈출 | Q1.특정 거리의 도시찾기  Q2.연구소  Q3.경쟁적 전염  Q4.괄호 변환  Q5.연산자 끼워 넣기   Q6.감시 피하기  Q7.인구 이동  Q8.블록 이동하기 |  |
 |4주차|sorting (정렬)| [정렬](https://www.youtube.com/watch?v=KGyK-pNvWos&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=4) |  Q1.위에서 아래로  Q2.성적이 낮은 순서로 학생 출력하기  Q3.두 배열의 원소 교체  |  Q1.국영수  Q2.안테나  Q3.실패율  Q4.카드정렬하기 |  |
