@@ -1,7 +1,7 @@
 # 2023-algorithm-study
 이코테 기반 알고리즘 스터디 (python)
--   기간: 2021년 3월~
--   정기 회의: 월요일 저녁 9시 디스코드
+-   기간: 2023년 1월~2월
+-   정기 회의: 월요일 저녁 9시 디스코드 
 -   참고 사이트:  [이코테 유튜브](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC) [백준](https://www.acmicpc.net/)
 -   언어: 파이썬
 
