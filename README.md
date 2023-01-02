@@ -86,7 +86,7 @@
 
 | 멤버 | 1주차  | 2주차  | 3주차  | 4주차  |  5주차 | 6주차  |  7주차 |  8주차 |
 |---|---|---|---|---|---|---|---|---|
-|  [<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868)  소리 | part2   part3  회의참석   |   |   |   |   |   |   |   |
+|  [<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) <br> 소리 | part2   part3  회의참석   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
