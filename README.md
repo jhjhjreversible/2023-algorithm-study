@@ -77,3 +77,8 @@
 |6주차|dynamic_programming(다이나믹 프로그래밍)| [다이나믹프로그래밍](https://www.youtube.com/watch?v=5Lu34WIx2Us&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=6) |  Q1.1로 만들기  Q2.개미 전사  Q3.바닥 공사  Q4.효율적인 화폐 구성 |  Q1.금광  Q2.정수 삼각형  Q3.퇴사  Q4.병사 배치하기  Q5.못생긴 수  Q6.편집 거리|  |
 |7주차|shortest_path(최단경로)| [최단경로](https://www.youtube.com/watch?v=acqm9mM1P6o&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=7) |  Q1.미래 도시  Q2.전보  |  Q1.플로이드  Q2.정확한 순위  Q3.화성 탐사  Q4.숨바꼭질 |  |
 |8주차|graph_theory(그래프이론)| [그래프이론](https://www.youtube.com/watch?v=aOhhNFTIeFI&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=8) |  Q1.팀 결성  Q2.도시 분할 계획  Q3.커리큘럼|  Q1.여행 계획  Q2.탑승구  Q3.어두운 길  Q4.행성 터널  Q5.최종 순위 |  |
+
+## ✅ MEMBERS
+||[<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) |  |  | |  
+|:---:|:---:|:---:|:---:|:---:|
+| 소리 | 아연 | 민주 | 현정 | 민진 |  
