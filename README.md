@@ -78,15 +78,12 @@
 |7주차|shortest_path(최단경로)| [최단경로](https://www.youtube.com/watch?v=acqm9mM1P6o&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=7) |  Q1.미래 도시  Q2.전보  |  Q1.플로이드  Q2.정확한 순위  Q3.화성 탐사  Q4.숨바꼭질 |  |
 |8주차|graph_theory(그래프이론)| [그래프이론](https://www.youtube.com/watch?v=aOhhNFTIeFI&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=8) |  Q1.팀 결성  Q2.도시 분할 계획  Q3.커리큘럼|  Q1.여행 계획  Q2.탑승구  Q3.어두운 길  Q4.행성 터널  Q5.최종 순위 |  |
 
-## ✅ MEMBERS
-|[<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) |  |  | |  |
-|:---:|:---:|:---:|:---:|:---:|
-| 소리 | 아연 | 민주 | 현정 | 민진 |  
+## ✅ 진행상황
 
 
 | 멤버 | 1주차  | 2주차  | 3주차  | 4주차  |  5주차 | 6주차  |  7주차 |  8주차 |
 |---|---|---|---|---|---|---|---|---|
-|  [<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) <br> 소리 | part2   part3  회의참석   |   |   |   |   |   |   |   |
+|  [<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) <br> 소리 | part2⭕️ <br> part3⭕️ <br>회의참석❌   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
