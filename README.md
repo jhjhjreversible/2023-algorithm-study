@@ -67,8 +67,8 @@
 
 ## ✅  일정표
 
-|**주차**|**알고리즘**|**링크**|**part2 문제**|**part3 문제**|**진행 현황**|   
-|--|--|--|--|--|--|
+|**주차**|**알고리즘**|**링크**|**part2 문제**|**part3 문제**|  
+|--|--|--|--|--|
 |1주차|greedy(그리디) | [그리디](https://www.youtube.com/watch?v=2zjoKjt97vQ&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=2) |Q1.큰 수의 법칙 <br> Q2.숫자 카드 게임  <br>Q3.1이 될 때까지 | Q1.모험가길드 <br> Q2.곱합기 혹은 더하기 <br> Q3.문자열 뒤집기 <br> Q4.만들 수 없는 금액 <br> Q5.볼링공 고르기 <br>  Q6.무지의 먹방 라이브|  |
 |2주차|implementation(구현) |[구현](https://www.youtube.com/watch?v=2zjoKjt97vQ&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=2) | Q1.왕실의 나이트 <br> Q2.게임 개발 |  Q1.럭키 스트레이트 <br> Q2.문자열 재정렬 <br> Q3.문자열 압축 <br> Q4.자물쇠와 열쇠 <br> Q5.뱀 <br> Q6.기둥과 보 설치 <br> Q7.치킨 배달 <br> Q8.외벽 점검 |  |
 |3주차|dfs/bfs| [DFS/BFS](https://www.youtube.com/watch?v=7C9RgOcvkvo&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=3) |  Q1.음료수 얼려먹기 <br> Q2.미로 탈출 | Q1.특정 거리의 도시찾기 <br> Q2.연구소 <br> Q3.경쟁적 전염 <br> Q4.괄호 변환 <br> Q5.연산자 끼워 넣기  <br> Q6.감시 피하기 <br> Q7.인구 이동 <br> Q8.블록 이동하기 |  |
