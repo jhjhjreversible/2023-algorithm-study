@@ -79,6 +79,6 @@
 |8주차|graph_theory(그래프이론)| [그래프이론](https://www.youtube.com/watch?v=aOhhNFTIeFI&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=8) |  Q1.팀 결성  Q2.도시 분할 계획  Q3.커리큘럼|  Q1.여행 계획  Q2.탑승구  Q3.어두운 길  Q4.행성 터널  Q5.최종 순위 |  |
 
 ## ✅ MEMBERS
-|[<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) |  |  | |  
+|[<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) |  |  | |  |
 |:---:|:---:|:---:|:---:|:---:|
 | 소리 | 아연 | 민주 | 현정 | 민진 |  
